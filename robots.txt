@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vestdata.no/sitemap.xml
